@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/iraq-bc-movies-project-students/precache-manifest.490e02752564db53227cb843c7874210.js"
+  "/iraq-bc-movies-project-students/precache-manifest.efc4269cfa461eb6ad80a55b9eb53f40.js"
 );
 
 self.addEventListener('message', (event) => {
