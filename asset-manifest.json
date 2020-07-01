@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/iraq-bc-movies-project-students/static/css/main.2304767d.chunk.css",
-    "main.js": "/iraq-bc-movies-project-students/static/js/main.a1dbe661.chunk.js",
-    "main.js.map": "/iraq-bc-movies-project-students/static/js/main.a1dbe661.chunk.js.map",
-    "runtime-main.js": "/iraq-bc-movies-project-students/static/js/runtime-main.fea43353.js",
-    "runtime-main.js.map": "/iraq-bc-movies-project-students/static/js/runtime-main.fea43353.js.map",
-    "static/css/2.9a0f1272.chunk.css": "/iraq-bc-movies-project-students/static/css/2.9a0f1272.chunk.css",
-    "static/js/2.e324e98e.chunk.js": "/iraq-bc-movies-project-students/static/js/2.e324e98e.chunk.js",
-    "static/js/2.e324e98e.chunk.js.map": "/iraq-bc-movies-project-students/static/js/2.e324e98e.chunk.js.map",
-    "index.html": "/iraq-bc-movies-project-students/index.html",
-    "precache-manifest.efc4269cfa461eb6ad80a55b9eb53f40.js": "/iraq-bc-movies-project-students/precache-manifest.efc4269cfa461eb6ad80a55b9eb53f40.js",
-    "service-worker.js": "/iraq-bc-movies-project-students/service-worker.js",
-    "static/css/2.9a0f1272.chunk.css.map": "/iraq-bc-movies-project-students/static/css/2.9a0f1272.chunk.css.map",
-    "static/css/main.2304767d.chunk.css.map": "/iraq-bc-movies-project-students/static/css/main.2304767d.chunk.css.map",
-    "static/js/2.e324e98e.chunk.js.LICENSE.txt": "/iraq-bc-movies-project-students/static/js/2.e324e98e.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.2304767d.chunk.css",
+    "main.js": "./static/js/main.b9ddd5d3.chunk.js",
+    "main.js.map": "./static/js/main.b9ddd5d3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2ea49d16.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2ea49d16.js.map",
+    "static/css/2.9a0f1272.chunk.css": "./static/css/2.9a0f1272.chunk.css",
+    "static/js/2.e324e98e.chunk.js": "./static/js/2.e324e98e.chunk.js",
+    "static/js/2.e324e98e.chunk.js.map": "./static/js/2.e324e98e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.915e8da9369e6677f5e16310dd589c12.js": "./precache-manifest.915e8da9369e6677f5e16310dd589c12.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.9a0f1272.chunk.css.map": "./static/css/2.9a0f1272.chunk.css.map",
+    "static/css/main.2304767d.chunk.css.map": "./static/css/main.2304767d.chunk.css.map",
+    "static/js/2.e324e98e.chunk.js.LICENSE.txt": "./static/js/2.e324e98e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fea43353.js",
+    "static/js/runtime-main.2ea49d16.js",
     "static/css/2.9a0f1272.chunk.css",
     "static/js/2.e324e98e.chunk.js",
     "static/css/main.2304767d.chunk.css",
-    "static/js/main.a1dbe661.chunk.js"
+    "static/js/main.b9ddd5d3.chunk.js"
   ]
 }
