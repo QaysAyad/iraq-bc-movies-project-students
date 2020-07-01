@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iraq-bc-movies-project-students/static/css/main.2304767d.chunk.css",
-    "main.js": "/iraq-bc-movies-project-students/static/js/main.b2e62d2d.chunk.js",
-    "main.js.map": "/iraq-bc-movies-project-students/static/js/main.b2e62d2d.chunk.js.map",
+    "main.js": "/iraq-bc-movies-project-students/static/js/main.0b266997.chunk.js",
+    "main.js.map": "/iraq-bc-movies-project-students/static/js/main.0b266997.chunk.js.map",
     "runtime-main.js": "/iraq-bc-movies-project-students/static/js/runtime-main.fea43353.js",
     "runtime-main.js.map": "/iraq-bc-movies-project-students/static/js/runtime-main.fea43353.js.map",
     "static/css/2.9a0f1272.chunk.css": "/iraq-bc-movies-project-students/static/css/2.9a0f1272.chunk.css",
     "static/js/2.6ac64609.chunk.js": "/iraq-bc-movies-project-students/static/js/2.6ac64609.chunk.js",
     "static/js/2.6ac64609.chunk.js.map": "/iraq-bc-movies-project-students/static/js/2.6ac64609.chunk.js.map",
     "index.html": "/iraq-bc-movies-project-students/index.html",
-    "precache-manifest.a4c9a8aa2193a872e5c2a8ac46807fae.js": "/iraq-bc-movies-project-students/precache-manifest.a4c9a8aa2193a872e5c2a8ac46807fae.js",
+    "precache-manifest.c9bb0429846a66086467d0abc89dc10a.js": "/iraq-bc-movies-project-students/precache-manifest.c9bb0429846a66086467d0abc89dc10a.js",
     "service-worker.js": "/iraq-bc-movies-project-students/service-worker.js",
     "static/css/2.9a0f1272.chunk.css.map": "/iraq-bc-movies-project-students/static/css/2.9a0f1272.chunk.css.map",
     "static/css/main.2304767d.chunk.css.map": "/iraq-bc-movies-project-students/static/css/main.2304767d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9a0f1272.chunk.css",
     "static/js/2.6ac64609.chunk.js",
     "static/css/main.2304767d.chunk.css",
-    "static/js/main.b2e62d2d.chunk.js"
+    "static/js/main.0b266997.chunk.js"
   ]
 }
