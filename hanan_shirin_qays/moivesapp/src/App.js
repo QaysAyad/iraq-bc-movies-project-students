@@ -6,13 +6,13 @@ import MainPage from "./Components/MainPage";
 import MoviePage from "./Components/MoviePage";
 import Footer from "./Components/Footer";
 import ActorPage from "./Components/ActorPage";
-import { StateProvider } from "./StateProvider";
+// import { StateProvider } from "./StateProvider";
 
 import { Route, Redirect, Switch, HashRouter } from "react-router-dom";
 
 function App() {
   return (
-    <StateProvider>
+    // <StateProvider>
       <HashRouter>
         <div className="d-flex  flex-column vh-100 align-items-stretch p-0 m-0">
           <Navbar />
@@ -30,7 +30,7 @@ function App() {
           <Footer />
         </div>
       </HashRouter>
-    </StateProvider>
+    // </StateProvider>
   );
 }
 export default App;
