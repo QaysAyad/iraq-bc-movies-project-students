@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/iraq-bc-movies-project-students/static/css/main.9b40e33b.chunk.css",
-    "main.js": "/iraq-bc-movies-project-students/static/js/main.9caba5c4.chunk.js",
-    "main.js.map": "/iraq-bc-movies-project-students/static/js/main.9caba5c4.chunk.js.map",
+    "main.js": "/iraq-bc-movies-project-students/static/js/main.17a354d2.chunk.js",
+    "main.js.map": "/iraq-bc-movies-project-students/static/js/main.17a354d2.chunk.js.map",
     "runtime-main.js": "/iraq-bc-movies-project-students/static/js/runtime-main.fea43353.js",
     "runtime-main.js.map": "/iraq-bc-movies-project-students/static/js/runtime-main.fea43353.js.map",
     "static/css/2.829c9cb5.chunk.css": "/iraq-bc-movies-project-students/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.4b38dd53.chunk.js": "/iraq-bc-movies-project-students/static/js/2.4b38dd53.chunk.js",
-    "static/js/2.4b38dd53.chunk.js.map": "/iraq-bc-movies-project-students/static/js/2.4b38dd53.chunk.js.map",
+    "static/js/2.bbb227ee.chunk.js": "/iraq-bc-movies-project-students/static/js/2.bbb227ee.chunk.js",
+    "static/js/2.bbb227ee.chunk.js.map": "/iraq-bc-movies-project-students/static/js/2.bbb227ee.chunk.js.map",
     "index.html": "/iraq-bc-movies-project-students/index.html",
-    "precache-manifest.8d1e95140b8a875151f80fa45869a740.js": "/iraq-bc-movies-project-students/precache-manifest.8d1e95140b8a875151f80fa45869a740.js",
+    "precache-manifest.689bfd0ec972abf37c7c174150d06697.js": "/iraq-bc-movies-project-students/precache-manifest.689bfd0ec972abf37c7c174150d06697.js",
     "service-worker.js": "/iraq-bc-movies-project-students/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/iraq-bc-movies-project-students/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.9b40e33b.chunk.css.map": "/iraq-bc-movies-project-students/static/css/main.9b40e33b.chunk.css.map",
-    "static/js/2.4b38dd53.chunk.js.LICENSE.txt": "/iraq-bc-movies-project-students/static/js/2.4b38dd53.chunk.js.LICENSE.txt"
+    "static/js/2.bbb227ee.chunk.js.LICENSE.txt": "/iraq-bc-movies-project-students/static/js/2.bbb227ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fea43353.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.4b38dd53.chunk.js",
+    "static/js/2.bbb227ee.chunk.js",
     "static/css/main.9b40e33b.chunk.css",
-    "static/js/main.9caba5c4.chunk.js"
+    "static/js/main.17a354d2.chunk.js"
   ]
 }
